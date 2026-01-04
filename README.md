@@ -1,0 +1,2 @@
+# powershell_password_code
+这是在Windows10上运行的一个随机密码生成器，在Powershell或终端中运行。
